@@ -75,7 +75,6 @@ losslessImageCompressClient/
 ├── main.py          # 主应用程序文件
 ├── README.md        # 项目说明文档
 └── asset/           # 资源目录
-    └── donate.jpg   # 打赏二维码图片
 ```
 
 ## 技术实现 💻
@@ -85,6 +84,12 @@ losslessImageCompressClient/
 - **多线程**：Python threading模块
 - **打包功能**：zipfile库
 - **错误处理**：完善的异常捕获机制
+
+## 项目贡献
+
+如果你觉得项目有用，就请我喝杯奶茶吧。 :tropical_drink:
+
+![donate](https://tinygeeker.github.io/assets/user/donate.jpg)
 
 ## 开发者信息 👨‍💻
 
